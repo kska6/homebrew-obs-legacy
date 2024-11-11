@@ -9,7 +9,6 @@ cask "obs@29" do
   name "OBS"
   desc "Open-source software for live streaming and screen recording"
   homepage "https://obsproject.com/"
-  license "GPL-2.0"
 
   livecheck do
     url "https://obsproject.com/osx_update/stable/updates_#{arch}.xml"
