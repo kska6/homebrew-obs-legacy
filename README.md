@@ -1,5 +1,8 @@
 # homebrew-obs-legacy
 
+> [!CAUTION]
+> This repository was archived on 2024-12-10, because the issue was resolved by [OBS Studio 31.0.0](https://github.com/obsproject/obs-studio/releases/tag/31.0.0).
+
 ## Repository Description
 
 This repository is a Homebrew tap that provides a previous version of OBS Studio (29.0.2) for macOS users. It allows users to install and manage this legacy version using Homebrew Cask, offering a stable and compatible option for those who experience issues with the latest releases, particularly with Virtual Camera functionality.
